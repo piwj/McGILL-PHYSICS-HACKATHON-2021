@@ -2,6 +2,7 @@
 # Augmented Collisions
 
 Team Name: UpAndAtom
+
 Team Members: Jakub Piwowarczyk and Saakshi Turakhia
 
 Hi Everyone, and welcome to our project Augmented Collisions. 
